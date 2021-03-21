@@ -1,8 +1,8 @@
+import { Hero } from "../Components";
+
 const Error = () => {
     return (
-        <div>
-            404
-        </div>
+        <Hero />
     );
 };
 

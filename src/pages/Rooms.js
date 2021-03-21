@@ -1,8 +1,8 @@
+import { Hero } from "../Components";
+
 const Rooms = () => {
     return (
-        <h1>
-            Hello From Rooms Page
-        </h1>
+        <Hero hero="roomsHero" />
     );
 };
 
