@@ -1,4 +1,4 @@
-import { Banner, Hero, Services } from "../Components";
+import { Banner, FeaturedRooms, Hero, Services } from "../Components";
 import { Link } from "react-router-dom";
 
 const Home = () => {
@@ -10,6 +10,7 @@ const Home = () => {
                 </Banner>
             </Hero>
             <Services />
+            <FeaturedRooms />
         </>
     );
 };
