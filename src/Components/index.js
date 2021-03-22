@@ -6,3 +6,4 @@ export { default as Services } from "./Services";
 export { default as FeaturedRooms } from "./FeaturedRooms";
 export { default as Loading } from "./Loading";
 export { default as Room } from "./Room";
+export { default as StyledHero } from "./StyledHero";
